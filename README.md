@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @metalralf
 - 🎉 I was born in 95
 - 👀 I'm interested in high-level programming languages such Node.js, PHP and .NET Core
-- 🌱 I’m currently learning Web and DevOps technologies, mainly in JS, PHP line
+- 🌱 I’m currently learning Web technologies, mainly in JS, PHP line
 - 💞️ I’m looking to collaborate on projects that catches my interest
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/rudolfkapitany/) and [e-mail](mailto:kapitanyrudolf@gmail.com)
 
